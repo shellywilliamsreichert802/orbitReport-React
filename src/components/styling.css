@@ -5,7 +5,7 @@ p {
 }
 
 button {
-  background-color: #a213c3;
+  background-color: rgb(230, 80, 80);
   border-radius: 15px;
   color: white;
   padding: 15px 32px;
@@ -23,28 +23,28 @@ button {
 }
 
 table {
-  border: 2px solid #7b7bbc;
+  border: 2px solid blue;
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
 th {
-  border-bottom: 2px solid rgb(111, 46, 99);
+  border-bottom: 2px solid blue;
   ;
   padding: 8px;
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #5334ce;
+  background-color:  rgb(64, 64, 226);
   color: white;
   text-align: center;
 }
 tr:nth-child(even) {
-  background-color: #7b7bbc;
+  background-color:  rgb(230, 80, 80);
 }
 tr:hover {
-  background-color: rgb(25, 194, 216);
+  background-color:  rgb(64, 64, 226);
   ;
 }
 
@@ -56,7 +56,7 @@ td {
 h1 {
   padding: 50px;
   text-align: center;
-  background: #7b7bbc;
+  background: rgb(64, 64, 226);
   color: white;
   font-size: 60px;
 }
